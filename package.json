@@ -1,0 +1,22 @@
+{
+  "name": "node-rmdirrf",
+  "version": "0.1.0",
+  "description": "Recursively remove all files and directories like rmdir -rf, but in node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "stepup": "~0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Schoonology/node-rmdirrf.git"
+  },
+  "author": {
+    "name": "Michael Schoonmaker",
+    "email": "michael.r.schoonmaker@gmail.com"
+  },
+  "license": "MIT"
+}
